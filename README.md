@@ -1,3 +1,4 @@
+
 # Student Attendance & Performance Analysis
 
 ## 📊 Project Overview
@@ -44,6 +45,7 @@ The Excel dashboard contains:
 - Study-hours comparison
 - Assignment comparison
 - Project conclusion
+<img width="1432" height="659" alt="image" src="https://github.com/user-attachments/assets/1098b22a-63f1-4165-a6ea-312fafeca156" />
 
 ## 💡 Conclusion
 
